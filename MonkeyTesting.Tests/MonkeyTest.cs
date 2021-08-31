@@ -3,7 +3,7 @@ using Xunit;
 
 namespace MonkeyTesting.Tests
 {
-    public class UnitTest1
+    public class MonkeyTest
     {
         [Fact]
         public void Test1()
